@@ -25,4 +25,4 @@ These projects were built while learning:
 
 ---
 
-**Last Updated:** December 1st, 2025
+**Last Updated:** December 12th, 2025
